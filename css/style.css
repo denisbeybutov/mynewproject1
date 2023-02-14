@@ -1,0 +1,32 @@
+body{
+    background-color: #ccc;
+    font-family: tahoma;
+    line-height: 1.5;
+    font-size: 18px;
+    margin: 0;
+}
+
+.title {
+    font-size: 45px;
+    color: #806500;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    box-shadow: 0 5px 10px rgb(47, 69, 47);
+    border-radius: 10px; 
+    padding: 10px;
+}
+
+.card-photo {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.card-title{
+    text-align: center;
+    color: rgb(53, 48, 68);
+}
